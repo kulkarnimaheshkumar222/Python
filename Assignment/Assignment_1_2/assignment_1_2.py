@@ -1,5 +1,4 @@
-# Assignment 1 and 2 of 13 June 2026 class
-
+# Assignment 1 and 2 
 # Write Program that accept two number from user add print 
 # Addition , Substraction, Multiplication & Division
 
