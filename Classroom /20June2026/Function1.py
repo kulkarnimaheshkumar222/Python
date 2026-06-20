@@ -3,14 +3,11 @@ def main():
     secondNumber = int(input("Enter second number"))
 
     result = addition(firstNumber, secondNumber)
-
     print("Addition is: ", result)
 
 
 def addition(firstNumber, secondNumber):
-
     addition = firstNumber + secondNumber
-
     return addition
 
 
